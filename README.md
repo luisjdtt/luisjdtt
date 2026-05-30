@@ -1,4 +1,4 @@
-# Luis Jaime De Trejo Torres
+# Luis DT
 
 Technical Lead / Software Architect building production systems across AWS serverless, full-stack web, mobile, backend, enterprise integrations, and AI-agent platforms.
 
