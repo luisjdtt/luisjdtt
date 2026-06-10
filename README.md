@@ -16,7 +16,7 @@ Most of my strongest production work lives in private company repositories, incl
 
 ## Selected Production Experience
 
-### Roddy AI-Agent Platform
+### AI-Agent Platform
 
 Technical lead and core builder of a production multi-tenant B2B AI-agent platform used by real clients to automate sales and operational workflows across WhatsApp, email, webchat, ERPs, CRMs, and internal systems.
 
